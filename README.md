@@ -3,7 +3,7 @@
 
 
 - email: <christo.zonnev@gmail.com>
-- twitter: [@czonnev](https://twitter.com/czonnev)
+- twitter: [@ChristoZonnev](https://twitter.com/ChristoZonnev)
 
 
 ## Requiriments 
