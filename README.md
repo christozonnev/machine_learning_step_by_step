@@ -1,4 +1,4 @@
-# Machine Learning Technologies - Overview, Tutorials, Educational Reccources
+# Machine Learning Technologies - Overview, Tutorials, Educational Resources
 
 
 
